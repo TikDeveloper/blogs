@@ -1,0 +1,16 @@
+*{
+    margin:0;
+}
+.app{
+    width: 1170px;
+    margin:0 auto;
+}
+.MuiFormGroup-root{
+    width: 700px;
+    margin:20px;
+}
+.MuiTableCell-head{
+    font-weight: 600 !important;
+    font-size: 18px !important;
+
+}
